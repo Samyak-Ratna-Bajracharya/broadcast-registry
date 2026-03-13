@@ -1,7 +1,14 @@
 # Broadcast Company Engineering Team Registry
-## 5COSC021W – Software Development Group Project
 
-A Django web application for discovering and managing engineering teams at Broadcast Company.
+**About this project:**
+A Django web application designed to help organizations manage and visualize their engineering teams, departments, and technical dependencies.
+
+**Key Files & Directories:**
+- `broadcast_registry/` - Main Django configuration and settings.
+- `teams/` - Core app logic for managing Teams, Departments, and Audit Logs.
+- `users/` - App handling user authentication and profiles.
+- `templates/` - HTML files containing the modern, animated frontend interface.
+- `manage.py` - Command-line utility for Django tasks.
 
 ---
 
